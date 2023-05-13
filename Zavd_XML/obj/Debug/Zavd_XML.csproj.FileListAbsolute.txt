@@ -1,0 +1,11 @@
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\obj\Debug\Zavd_XML.csproj.AssemblyReference.cache
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\obj\Debug\Zavd_XML.csproj.SuggestedBindingRedirects.cache
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\obj\Debug\Zavd_XML.Form1.resources
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\obj\Debug\Zavd_XML.Properties.Resources.resources
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\obj\Debug\Zavd_XML.csproj.GenerateResource.cache
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\obj\Debug\Zavd_XML.csproj.CoreCompileInputs.cache
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\bin\Debug\Zavd_XML.exe.config
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\bin\Debug\Zavd_XML.exe
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\bin\Debug\Zavd_XML.pdb
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\obj\Debug\Zavd_XML.exe
+D:\Універ\Алгоритмізація та програмування\Zavd_XML\Zavd_XML\obj\Debug\Zavd_XML.pdb
